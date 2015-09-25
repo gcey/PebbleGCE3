@@ -10,12 +10,12 @@
         "media": [
             {
                 "file": "fonts/gcedruck.TTF",
-                "name": "FONT_GCE_DRUCKSCHRIFT_25",
+                "name": "FONT_GCE_DRUCKSCHRIFT_50",
                 "type": "font"
             },
             {
                 "file": "fonts/gcedruck.TTF",
-                "name": "FONT_GCE_DRUCKSCHRIFT_55",
+                "name": "FONT_GCE_DRUCKSCHRIFT_25",
                 "type": "font"
             }
         ]
