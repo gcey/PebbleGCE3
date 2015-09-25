@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "GCE",
+    "longName": "GCE3",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/gcedruck.TTF",
+                "name": "FONT_GCE_DRUCKSCHRIFT_25",
+                "type": "font"
+            },
+            {
+                "file": "fonts/gcedruck.TTF",
+                "name": "FONT_GCE_DRUCKSCHRIFT_55",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "GCE3",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "1ea1ffd9-56ea-4ac0-a211-dbf76b5f357a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
